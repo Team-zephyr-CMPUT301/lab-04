@@ -12,5 +12,6 @@
 /captures
 .externalNativeBuild
 .cxx
+.ideagit add
 
 local.properties
