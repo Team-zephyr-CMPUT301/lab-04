@@ -12,8 +12,5 @@
 /captures
 .externalNativeBuild
 .cxx
-<<<<<<< HEAD
-=======
 /.idea
->>>>>>> origin/main
 local.properties
