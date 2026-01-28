@@ -2,7 +2,12 @@ package com.example.zephyr;
 
 public abstract class Shape {
 
-    Integer x;
-    Integer y;
+    int x;
+    int y;
+
+    public Shape (int x, int y) {
+        this.x = x;
+        this.y = y;
+    }
 
 }
